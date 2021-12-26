@@ -16,7 +16,7 @@ void setup() {
 }
 
 // the loop routine runs over and over again forever:
-void loop() {
+void loop1() {
   digitalWrite(led, HIGH);   // turn the LED on (HIGH is the voltage level)
   delay(7000);               // wait for 5 seconds
   digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
