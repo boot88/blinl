@@ -1,6 +1,7 @@
 /*
   Blink
   Turns on an LED on for one second, then off for one second, repeatedly.
+  This program is written in C++
  
   This example code is in the public domain.
  */
